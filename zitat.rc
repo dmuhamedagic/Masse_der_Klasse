@@ -1,0 +1,10 @@
+[z]
+read_sleep = 2 ; vreme izmedju dva citanja
+min_rpt = 3 ; minimalan broj citanja sa istom tezinom
+max_dis = 30 ; tolerancija tezine
+zitat_show_time = 20 ; minimalno trajanje prikazivanja citata
+random = 0 ; 1: on, 0: off
+weight_display = 0 ; display weight only?
+weight_scale = 100 ; the scale reports skewed weight (in pct)?
+min_weight_display = 190 ; min weight to display
+
